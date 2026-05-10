@@ -6,7 +6,8 @@ B. Un sistema de control de versiones para registrar cambios en proyectos
 C. Una red social para programadores
 D. Un editor de texto
 
-Respuesta:
+Respuesta: B. Porque Git es una herramienta que permite guardar y controlar 
+los cambios realizados en archivos y proyectos, especialmente en programación.
 
 Pregunta 2 — Selección múltiple
 ¿Cuál es la función principal de un repositorio?
@@ -16,7 +17,8 @@ B. Registrar y organizar los archivos y cambios de un proyecto
 C. Conectarse a internet
 D. Ejecutar programas
 
-Respuesta:
+Respuesta: B. Porque un repositorio sirve para almacenar los archivos de un
+proyecto y llevar el registro de todos los cambios realizados.
 
 Pregunta 3 — Selección múltiple
 ¿Qué hace el comando git add .?
@@ -26,7 +28,7 @@ B. Agrega archivos al área de preparación para registrar cambios
 C. Crea una nueva carpeta
 D. Cierra el repositorio
 
-Respuesta:
+Respuesta:B. Porque este comando agrega todos los archivos modificados al área de preparación antes de realizar un commit.
 
 Pregunta 4 — Selección múltiple
 ¿Qué hace el comando git commit?
@@ -36,4 +38,4 @@ B. Borra el repositorio
 C. Instala un programa
 D. Abre un archivo
 
-Respuesta:
+Respuesta: A. Porque git commit guarda un registro de los cambios realizados en el proyecto para mantener un historial de versiones.

@@ -5,3 +5,18 @@ Repositorio
 Commit
 Push
 Cada explicación debe tener al menos 2 o 3 líneas.
+
+
+Repositorio:
+Un repositorio es el lugar donde se almacenan los archivos y el historial de cambios de un proyecto.
+Sirve para organizar el trabajo y permitir que varias personas colaboren sin perder información. Puede estar
+en el computador o en plataformas como GitHub.
+
+Commit:
+Un commit es un registro de los cambios realizados en un proyecto. Permite guardar una versión específica
+de los archivos para llevar un control del trabajo realizado. Cada commit suele incluir un mensaje
+describiendo los cambios hechos.
+
+Push:
+El comando push se utiliza para enviar los cambios del repositorio local a un repositorio remoto, por ejemplo
+en GitHub. Esto ayuda a compartir el trabajo con otras personas y mantener el proyecto actualizado en línea.
