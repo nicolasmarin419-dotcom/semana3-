@@ -1,0 +1,7 @@
+Pregunta 9 — Reflexión de la semana
+Escribe un texto de 8 a 10 líneas respondiendo:
+
+¿Por qué es importante que los proyectos de software mantengan
+un registro de cambios usando herramientas como Git?
+
+Respuesta:

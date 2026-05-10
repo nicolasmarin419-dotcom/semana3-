@@ -1,0 +1,7 @@
+Pregunta 7 — Explicar conceptos básicos de Git
+Escribe una explicación corta de los siguientes conceptos:
+
+Repositorio
+Commit
+Push
+Cada explicación debe tener al menos 2 o 3 líneas.
